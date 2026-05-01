@@ -4,5 +4,5 @@
 This project is mainly made using Roo Code with [Gemini 3 Flash](https://blog.google/products-and-platforms/products/gemini/gemini-3-flash/)
 </p> 
 <p>
-(game is made for the sole purpose being on [galaxy.click](https://galaxy.click/)
+(game is made for the sole purpose being on [galaxy.click](https://galaxy.click/))
 </p>  
